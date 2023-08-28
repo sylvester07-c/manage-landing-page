@@ -1,0 +1,436 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+ .main{
+  /* border: 2px solid red; */
+  height: auto;
+  width: auto;
+  display: flex;
+  
+ }
+
+ .submain{
+  /* border: 2px solid blue; */
+  height: 600px;
+  width: 1000px;
+ }
+
+ .photo1{
+  /* border: 2px solid green; */
+  height: 600px;
+  position: relative;
+  width: 700px;
+  overflow: hidden;
+ }
+
+ .pattern{
+  margin-top: -50%;
+  z-index: -9;
+  position: absolute;
+  /* margin-left: 10%; */
+ }
+
+ .logo{
+  margin-top: 5%;
+  margin-left: 10%;
+ }
+
+ .list{
+  margin-left: 45%;
+  display: flex;
+  gap: 40px;
+  margin-top: -3.5%;
+  list-style: none;
+ }
+
+ .btn{
+  border: none;
+  height: 40px;
+  width: 150px;
+  margin-top: 5%;
+  margin-left: 45%;
+  border-radius: 20px;
+  background-color: rgb(252, 100, 45);
+ }
+
+ .photo2{
+  margin-left: 80%;
+  margin-top: -45%;
+ }
+
+ .text{
+  margin-top: 20%;
+  margin-left: 10%;
+ }
+
+ .text2{
+  margin-top: 5%;
+  margin-left: 10%;
+  color: black;
+ }
+
+ .btn1{
+  border: none;
+  height: 40px;
+  width: 150px;
+  margin-top: 5%;
+  margin-left: 20%;
+  border-radius: 20px;
+  background-color: rgb(252, 100, 45);
+ }
+
+.abt-manage{
+  /* border: 2px solid red; */
+  height: 700px;
+  width: auto;
+  display: flex;
+}
+
+.different{
+  /* border: 2px solid blue; */
+  width: 700px;
+
+}
+
+.track{
+  /* border: 2px solid green; */
+  width: 700px;
+}
+
+.text3{
+  margin-top: 20%;
+  margin-left: 10%;
+}
+
+.text4{
+  margin-left: 10%;
+  margin-top: 5%;
+  color: black;
+}
+
+.btn2{
+  border: none;
+  height: 35px;
+  width: 55px;
+  margin-top: 22%;
+  border-radius: 20px;
+  margin-left: 5%;
+  background-color: orangered;
+  color: white;
+}
+
+.text5{
+  display: inline;
+  margin-left: 4%;
+  font-weight: bolder;
+}
+
+.text6{
+  margin-top: 2%;
+  margin-left: 18%;
+  color: black;
+
+}
+
+.btn3{
+  border: none;
+  height: 35px;
+  width: 55px;
+  margin-top: 5%;
+  border-radius: 20px;
+  margin-left: 5%;
+  background-color: orangered;
+  color: white;
+}
+
+.pattern2{
+  margin-left: -80%;
+  margin-top: 5%;
+}
+
+.testimonial{
+  /* border: 2px solid black; */
+  height: 500px;
+  width: auto;
+  display: flex;
+}
+
+.text7{ 
+  margin-top: 5%;
+  margin-left: 35%;
+} 
+
+.anisha{
+  /* border: 2px solid yellow; */
+  width: 446.666px;
+}
+
+.ali{
+  /* border: 2px solid blue; */
+  width: 446.666px;
+}
+
+.richard{
+  /* border: 2px solid green; */
+  width: 446.666px;
+}
+
+.li{
+  /* border: 2px solid brown; */
+  width: 400px;
+  height: 200px;
+  margin-top: 40%;
+  background-color: rgb(248, 245, 245);
+}
+
+.photo3{
+  margin-top: -10%;
+  height: 80px;
+  margin-left: 37%;
+}
+
+.bravo{
+  /* border: 2px solid brown; */
+  width: 446.666px;
+  height: 200px;
+  margin-top: 23%;
+  background-color: rgb(248, 245, 245);
+}
+
+.watts{
+  /* border: 2px solid brown; */
+  width: 400px;
+  height: 200px;
+  margin-top: 40%;
+  margin-left: 10%;
+  background-color: rgb(248, 245, 245);
+}
+
+.text8{
+  margin-left: 37%;
+  font-weight: bolder;
+  margin-top: 5%;
+}
+
+.text9{
+  text-align: center;
+  color: black;
+  margin-top: 5%;
+}
+
+.photo4{
+  margin-top: -10%;
+  height: 80px;
+  margin-left: 40%;  
+}
+
+.text10{
+  margin-left: 41%;
+  font-weight: bolder;
+  margin-top: 5%;
+}
+
+.photo5{
+  margin-top: -10%;
+  height: 80px;
+  margin-left: 40%;
+}
+
+.text11{
+  margin-left: 38%;
+  font-weight: bolder;
+  margin-top: 5%;
+}
+
+.btn4{
+  border: none;
+  height: 40px;
+  width: 150px;
+  margin-left: 38%;
+  border-radius: 20px;
+  margin-top: 20%;
+  background-color: rgb(252, 100, 45);
+ }
+
+ .simplify{
+  /* border: 2px solid red; */
+  height: 200px;
+  width: auto;
+  margin-top: 5%;
+  background-color: rgb(252, 100, 45);
+  display: flex;
+ }
+
+ .team{
+  /* border: 2px solid blue; */
+  height: 200px;
+  width: 700px;
+ }
+
+ .started{
+  /* border: 2px solid green; */
+  height: 200px;
+  width: 700px;
+ }
+
+ .text12{
+  margin-left: 10%;
+  color: white;
+  margin-top: 6%;
+  
+ }
+
+ .btn5{
+  border: none;
+  height: 40px;
+  width: 150px;
+  margin-left: 60%;
+  border-radius: 20px;
+  margin-top: 8%;
+  background-color: white;
+ }
+
+ .price:hover{
+  cursor: pointer;
+  text-transform: uppercase;
+  color: rgb(252, 100, 45);
+ }
+
+ .manage{
+  /* border: 2px solid black; */
+  height: 220px;
+  width: auto;
+  background-color: black;
+  display: flex;
+ }
+
+ .buttom{
+  /* border: 2px solid brown; */
+  height: 220px;
+  width: 900px;
+ }
+
+ .ending{
+  /* border: 2px solid green; */
+  height: 220px;
+  width: 500px;
+ }
+
+ .scd-logo{
+  color: white;
+  margin-left: 10%;
+  margin-top: 5%;
+ }
+
+ .socials{
+  margin-top: 10%;
+  margin-left: 11%;
+  /* display: inline; */
+ }
+
+ .footerlist{
+  color: white;
+  margin-top: -15%;
+  margin-left: 40%;
+  list-style: none;
+ }
+
+ .sndlist{
+  margin-top: 3%;
+ }
+
+ .sndfooterlist{
+  color: white;
+  margin-top: -15%;
+  margin-left: 70%;
+  list-style: none;
+ }
+
+ .thirdlist{
+  margin-top: 5%;
+ }
+
+ .inputbutton{
+  border: none;
+  margin-top: 7%;
+  height: 30px;
+  border-radius: 15px;
+  text-align: center;
+ }
+
+ .btn6{
+  border: none;
+  height: 30px;
+  margin-left: 2%;
+  width: 50px;
+  border-radius: 15px;
+  background-color: rgb(252, 100, 45);
+ }
+
+ .container{
+  color: red;
+ }
+
+    .hamburger {
+      position: fixed;
+      top: 40px;
+      right: 20px;
+      z-index: 10;
+      cursor: pointer;
+      width: 20px;
+      height: 20px;
+      background: none;
+      border: none;
+    }
+  
+    .hamburger-top,
+    .hamburger-middle,
+    .hamburger-bottom {
+      position: absolute;
+      width: 20px;
+      height: 2px;
+      top: 0;
+      left: 0;
+      background: #333;
+      transition: all 0.5s;
+  
+    }
+  
+    .hamburger-middle {
+      transform: translateY(5px);
+    }
+  
+    .hamburger-bottom {
+      transform: translateY(10px);
+    }
+  
+    .open {
+      transform: rotate(90deg);
+    }
+  
+    .open .hamburger-top {
+      transform: rotate(45deg) translateY(6px) translateX(6px);
+    }
+  
+    .open .hamburger-middle {
+      display: none;
+    }
+  
+    .open .hamburger-bottom {
+      transform: rotate(-45deg) translateY(6px) translateX(-6px);
+  
+    }
+
+    @media (max-width: 768px) {
+      .list {
+        display: none;
+      }
+      
+    }
+
+    @media (max-width: 600px) {
+
+      
+    }
